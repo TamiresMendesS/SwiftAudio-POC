@@ -13,5 +13,5 @@ Esse repositório foi desenvolvido exclusivamente para a exploração do framewo
 
 1. Clone o repositório:
 
-> git clone
+> git clone<br>
 > https://github.com/TamiresMendesS/SwiftAudio-POC.git
